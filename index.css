@@ -9,7 +9,7 @@ table, td {
 html {
     font-family: sans-serif;
     background-color: #fff;
-    background-image: url(images/bg-bact.jpg);
+    background-image: url(bg-bact.jpg);
     color: #202020;
     text-align: center;
 }
@@ -40,12 +40,12 @@ html {
 }
 
 #navbar {
-    margin: 0 -10%;
-    width: 120%;
+    margin: 0 0%;
+    width: 100%;
     text-align: center;
     border: #202020 4px solid;
     background-size: 20%;
-    background-image: url(images/bacteriabg.webp);
+    background-image: url(bacteriabg.webp);
     background-repeat: repeat;
 }
 
